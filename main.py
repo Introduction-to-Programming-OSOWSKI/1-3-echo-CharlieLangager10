@@ -1,1 +1,6 @@
-#WRITE YOUR CODE IN THIS FILE
+from tkinter import Y
+
+
+def echo( x , y)
+    return x * y
+print(echo("hello", 5 ))
